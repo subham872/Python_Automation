@@ -1,0 +1,5 @@
+tuple1= ("Subham",1,True,1.4)
+tuple2= (1,23,4)
+tuple3 = (1,"Subham")
+result= (tuple3[1],)
+print(result)
