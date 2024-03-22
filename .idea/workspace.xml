@@ -5,7 +5,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a6a03dd-b9cb-44e5-a5a8-d8263862a1df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_31Jan_2024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/01_31Jan_2024/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_31Jan_2024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/01_31Jan_2024/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_2Feb2024/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/02_2Feb2024/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_5Feb2024/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/03_5Feb2024/Lab014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_5Feb2024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/03_5Feb2024/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_5Feb2024/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/03_5Feb2024/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_5Feb2024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/03_5Feb2024/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_5Feb2024/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/03_5Feb2024/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_5Feb2024/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/03_5Feb2024/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_5Feb2024/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/03_5Feb2024/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab026.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab030.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab030.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Feb2024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/07_Feb2024/Lab031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Feb2024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/09_Feb2024/Lab032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Feb2024/Lab033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/09_Feb2024/Lab033.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Feb2024/Lab034.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/09_Feb2024/Lab034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Feb2024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/09_Feb2024/Lab035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Feb2024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/09_Feb2024/Lab036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Feb2024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/09_Feb2024/Lab037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Feb2024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/09_Feb2024/Lab038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Feb2024/Lab039.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/09_Feb2024/Lab039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab040.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab040.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab041.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab042.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab043.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab045.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab046.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab048.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab049.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab049.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Feb_2024/Lab053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/12_Feb_2024/Lab053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab057.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab059.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab061.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab061.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab062.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Feb_2024/Lab063.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/14_Feb_2024/Lab063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab064.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab064.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab066.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab066.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab067.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab067.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab068.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab068.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab069.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab070.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab071.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab072.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab072.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab073.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab073.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab074.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Feb_2024/Lab075.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/16_Feb_2024/Lab075.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Feb_2024/Lab076.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/19_Feb_2024/Lab076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Feb_2024/Lab077.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/19_Feb_2024/Lab077.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Feb_2024/Lab078.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/19_Feb_2024/Lab078.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab079.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab079.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab080.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab080.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab081.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab081.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab082.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab083.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab083.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab084.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab086.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab086.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Feb_2024/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb/26_Feb_2024/Lab087.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +221,16 @@
     "Python.Lab084.executor": "Run",
     "Python.Lab085.executor": "Run",
     "Python.Lab086.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab093.executor": "Run",
+    "Python.Lab094.executor": "Run",
+    "Python.Lab095.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Lab098.executor": "Run",
+    "Python.Lab099.executor": "Run",
+    "Python.Lab101.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -141,12 +239,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Feb" />
       <recent name="$PROJECT_DIR$/02_2Feb2024" />
       <recent name="$PROJECT_DIR$/01_31Jan_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab086">
-    <configuration name="Lab081" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab101">
+    <configuration name="Lab095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTraining" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +254,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26_Feb_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mar/01_Mar_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_Feb_2024/Lab081.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mar/01_Mar_2024/Lab095.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab082" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTraining" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +276,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26_Feb_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mar/01_Mar_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_Feb_2024/Lab082.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mar/01_Mar_2024/Lab096.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab084" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab098" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTraining" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,11 +298,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26_Feb_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mar/01_Mar_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_Feb_2024/Lab084.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mar/01_Mar_2024/Lab098.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab085" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTraining" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,11 +320,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26_Feb_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mar/01_Mar_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_Feb_2024/Lab085.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mar/01_Mar_2024/Lab099.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab086" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab101" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTraining" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,11 +342,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26_Feb_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mar/01_Mar_2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_Feb_2024/Lab086.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mar/01_Mar_2024/Lab101.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab086" />
-        <item itemvalue="Python.Lab085" />
-        <item itemvalue="Python.Lab084" />
-        <item itemvalue="Python.Lab082" />
-        <item itemvalue="Python.Lab081" />
+        <item itemvalue="Python.Lab101" />
+        <item itemvalue="Python.Lab099" />
+        <item itemvalue="Python.Lab098" />
+        <item itemvalue="Python.Lab096" />
+        <item itemvalue="Python.Lab095" />
       </list>
     </recent_temporary>
   </component>
@@ -283,5 +382,8 @@
       <updated>1706842129467</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
 </project>
